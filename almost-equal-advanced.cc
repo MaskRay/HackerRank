@@ -1,5 +1,6 @@
 #include <algorithm>
 #include <cstdio>
+#include<math.h>
 using namespace std;
 
 typedef long long ll;
